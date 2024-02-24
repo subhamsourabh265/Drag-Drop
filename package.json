@@ -1,0 +1,15 @@
+{
+  "name": "drag-drop",
+  "version": "0.0.1",
+  "description": "Drag And Drp App in Typescript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "ss",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
